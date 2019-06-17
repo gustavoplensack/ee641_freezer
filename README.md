@@ -1,2 +1,4 @@
-# ee641_freezer
-This repository refers to the project of the discipline EE641 @ FEEC-UNICAMP.
+# IHM Freezer EE641
+Este repositório contêm o código em Arduino utilizado no projeto de
+controle PID do freezer de pastilhas peltier implementado na 
+disciplina EE641 no 1s2019
