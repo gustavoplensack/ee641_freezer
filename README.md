@@ -4,5 +4,4 @@ controle PID do freezer de pastilhas peltier implementado na
 disciplina EE641 no 1s2019.
 
 **Bibliotecas Necessárias:**
-
 - TimerOne
